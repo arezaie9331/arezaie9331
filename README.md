@@ -70,4 +70,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arezaie9331&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arezaie9331&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arezaie9331&show_icons=true&theme=transparent)
