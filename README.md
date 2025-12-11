@@ -67,6 +67,3 @@
           
 </p>
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arezaie9331&layout=donut&theme=dark)
