@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arezaie9331
+- 👋 Hi, I’m Amirali
 - 👀 I’m interested in IOT , Programming and VolleyBall
 - 🌱 I’m currently learning Reinforcement Learning and LLMs
 <h2> 🚀 &nbsp;Some Languages I Have Used and Learned</h2>
