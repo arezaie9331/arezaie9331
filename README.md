@@ -180,5 +180,3 @@ LLM Engineering        Computer Vision
  IoT + Intelligent Systems
 ```
 
-# 📫 Connect With Me
-<p> <a href="https://github.com/arezaie9331"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> </a> <a href="https://linkedin.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/> </a> </p> 
