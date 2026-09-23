@@ -70,11 +70,10 @@ My main areas of interest:
 
 <p>
 
-<img src="https://cdn.simpleicons.org/huggingface" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50"/>
 <img src="https://cdn.simpleicons.org/openai" width="50"/>
-<img src="https://cdn.simpleicons.org/langchain" width="50"/>
 <img src="https://cdn.simpleicons.org/neo4j" width="50"/>
-<img src="https://cdn.simpleicons.org/python" width="50"/>
 
 </p>
 
@@ -83,10 +82,9 @@ My main areas of interest:
 
 <p>
 
-<img src="https://cdn.simpleicons.org/ollama" width="40"/>
-<img src="https://cdn.simpleicons.org/huggingface" width="40"/>
-<img src="https://cdn.simpleicons.org/langchain" width="40"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
 <img src="https://cdn.simpleicons.org/neo4j" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
 
 </p>
 
@@ -104,19 +102,18 @@ My main areas of interest:
 - Pinecone
 - Retrieval Augmented Generation (RAG)
 - AI Agents
-
-
+  
 ---
 
 ## 🌐 Backend & Frameworks
 
 <p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnet/dotnet-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50"/>
 
 </p>
