@@ -10,7 +10,7 @@
 🎓 M.Sc. Data Science Student / Developer  
 💡 Interested in **Artificial Intelligence, IoT, Large Language Models and Intelligent Systems**  
 ⚡ Building intelligent applications by combining software, data and AI technologies  
-🏐 Volleyball enthusiast  
+🏐 Volleyball enthusiast
 
 
 My main areas of interest:
@@ -45,7 +45,8 @@ My main areas of interest:
 
 ---
 
-## 🧠 AI / Machine Learning
+# 🧠 AI / Machine Learning
+
 
 <p>
 
@@ -66,46 +67,58 @@ My main areas of interest:
 
 ---
 
-## 🧠 LLM / Generative AI
+# 🧠 LLM / Generative AI
+
+
+## 🔗 LLM Frameworks
+
 
 <p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/>
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50"/>
+<img src="https://cdn.simpleicons.org/langchain" width="50"/>
+<img src="https://cdn.simpleicons.org/python" width="50"/>
+
+</p>
+
+
+- LangChain
+- LlamaIndex
+- LiteLLM
+- Prompt Engineering
+- AI Agent Development
+- Retrieval Augmented Generation (RAG)
+
+
+
+---
+
+## 🤖 Models & AI Infrastructure
+
+
+<p>
+
+<img src="https://cdn.simpleicons.org/huggingface" width="50"/>
 <img src="https://cdn.simpleicons.org/openai" width="50"/>
 <img src="https://cdn.simpleicons.org/neo4j" width="50"/>
 
 </p>
 
 
-### Frameworks & Tools
-
-<p>
-
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
-<img src="https://cdn.simpleicons.org/neo4j" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
-
-</p>
-
-
 - Llama Models
-- LangChain
-- LlamaIndex
-- LiteLLM
-- Ollama
+- Ollama Local LLM Runtime
 - HuggingFace Transformers
 - OpenAI API
 - Neo4j Knowledge Graph
+- Vector Databases
 - FAISS
 - ChromaDB
 - Pinecone
-- Retrieval Augmented Generation (RAG)
-- AI Agents
-  
+
+
 ---
 
 ## 🌐 Backend & Frameworks
+
 
 <p>
 
@@ -119,9 +132,11 @@ My main areas of interest:
 </p>
 
 
+
 ---
 
 ## 🔌 IoT & Embedded Systems
+
 
 <p>
 
@@ -149,13 +164,12 @@ My main areas of interest:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="45"/>
 
 </p>
 
@@ -169,8 +183,7 @@ My main areas of interest:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arezaie9331&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arezaie9331&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arezaie9331&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
