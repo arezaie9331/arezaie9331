@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-🎓 Computer Engineering Student / Developer  
+🎓 Data Science Student / Developer  
 💡 Interested in **IoT, Artificial Intelligence, Large Language Models and Intelligent Systems**  
 ⚡ Building software systems that combine AI, hardware and real-world applications  
 🏐 Volleyball enthusiast  
